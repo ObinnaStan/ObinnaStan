@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ObinnaStan
-- 👀 I’m interested in WebDevelopment and Data Analytics
-- 🌱 I’m currently learning Data Analytics with @Utiva Learning
+- 👀 I’m interested in WebDevelopment and Js
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me obexdaprince@gmail.com
 
